@@ -1,2 +1,2 @@
 # Python_Fundamentals
-Exercícios para reforçar conceitos fundamentais do Python, como tipos, funções, loops, etc.
+Exercícios para reforçar conceitos fundamentais de estrutura do Python, como types, functions, loops, lists etc.
